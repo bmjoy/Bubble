@@ -1,2 +1,2 @@
-# Bubble
-泡泡龙
+# hello-world
+Hello world new project template.
